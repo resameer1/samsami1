@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samsami1
-- 👀 I’m interested in web development and design and wordpress expert
+- 👀 I’m interested in web design and development also Shopify and WordPress expert
 - 🌱 I’m currently learning react js and react native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
